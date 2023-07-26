@@ -1,2 +1,2 @@
 # URL-Shortener-Code
-Local URL Shortener
+This local URL shortener is a simple yet effective web application built using Python, HTML, and CSS. It allows users to enter a long URL, and it generates a shortened version of the link. The application's user-friendly interface, combined with the Python backend handling URL generation and redirection, provides a seamless experience for users to easily manage and share their long URLs with others.
