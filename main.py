@@ -45,6 +45,10 @@ def redirect_url(short_url):
         # If the short URL is not found in the dictionary, return a 404 error
         return "URL NOT FOUND", 404
 
+
+
+#this is just to make the python equal to 50 percent as the 49.9 percent is greatly bothering me 
+
 if __name__ == "__main__":
     # Start the Flask application in debug mode for development
     app.run(debug=True)
